@@ -1,0 +1,3 @@
+# mydevices-go
+
+Serverless functions
